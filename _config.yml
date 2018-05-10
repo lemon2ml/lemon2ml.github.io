@@ -4,8 +4,8 @@ SEOTitle: 梅里岸的博客 | lemon2ml
 header-img: img/home-bg.jpg
 email: lemon2ml@outlook.com
 description: "这里是 @梅里岸 的个人博客。"
-keyword: "梅里岸, Hux梅里岸, Hux, 鬼栈, huxpro, @huxpro, 梅里岸的博客, lemon2ml, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: ""             # your host, for absolute URL   "https://huangxuan.me" 
+keyword: "梅里岸, 梅里岸的博客, lemon2ml, 博客, 个人网站, 互联网, Web, 后端"
+url: "https://lemon2ml.github.io"             # your host, for absolute URL  
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
